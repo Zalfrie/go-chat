@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Zalfrie/go-chat/trace"
 	"github.com/gorilla/websocket"
+	"go-chat/trace"
 	"log"
 	"net/http"
 )

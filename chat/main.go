@@ -9,7 +9,7 @@ import (
 	"sync"
 	"text/template"
 
-	"github.com/Zalfrie/go-chat/trace"
+	"go-chat/trace"
 )
 
 type templateHandler struct {
